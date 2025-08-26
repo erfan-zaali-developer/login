@@ -14,6 +14,7 @@
       width: 400px;
       height: 500px;
       background: url(../img/music3.jpg);
+      background-repeat: no-repeat;
       filter: brightness(70%);
       background-size: cover;
       background-position: center;
@@ -62,3 +63,4 @@
       margin: 10px 0px;
       text-transform: uppercase;
     }
+
